@@ -51,3 +51,7 @@ Add an idiomatic Chinese version of this README.
 Follows the [vercel-labs/skills](https://github.com/vercel-labs/skills) layout:
 skills live under `skills/`, with only this README at the root for `npx skills`
 discovery.
+
+## License
+
+MIT — see [LICENSE](LICENSE).
